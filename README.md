@@ -58,10 +58,10 @@ The project includes scatter plots showing:
 - Incorporate additional features for more accurate predictions
 
 ## License
-[Choose an appropriate license, e.g., MIT License]
+This project is open source and free to use
 
 ## Author
-[Your Name]
+Tyler Randall and Xinglong Ju
 
 ## Acknowledgments
 - Course: ANLY 6110 - Data Analytics II
